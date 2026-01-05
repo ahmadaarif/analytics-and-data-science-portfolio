@@ -1,0 +1,14 @@
+# data
+data/*
+!data/README.md
+
+# models and outputs
+models/*
+reports/figures/*
+!reports/figures/.gitkeep
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# environment
+.venv/

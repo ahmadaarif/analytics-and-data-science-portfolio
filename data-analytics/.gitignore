@@ -27,4 +27,4 @@ __pycache__/
 *.pbix
 
 # Don't commit large processed event data
-projects/ecommerce-funnel-analysis/data/processed/funnel_events.csv
+ecommerce-funnel-analysis/data/processed/funnel_events.csv
