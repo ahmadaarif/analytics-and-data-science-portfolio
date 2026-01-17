@@ -22,6 +22,8 @@ __pycache__/
 
 # Processed data
 **/data/processed/*.csv
+**/data/processed/**
+
 
 # PowerBI
 *.pbix
